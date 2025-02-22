@@ -1,0 +1,78 @@
+#Part 1: Introduction to Software Engineering
+
+1.Explain what software engineering is and discuss its importance in the technology industry. 
+ -Software Engineering is the process of designing,developing,testing and maintenance of software applications.By developing tailored software solutions, companies can optimise their operations, streamline processes, and gain a competitive edge. Additionally, software engineering helps businesses manage data efficiently, analyse customer patterns, and make informed decisions that drive growth and profitability
+
+
+2.Identify and describe at least three key milestones in the evolution of software engineering.  
+  -1968: The term "software engineering" coined at the NATO Software Engineering Conference.
+  -1970s: Development of Object-Oriented Programming (OOP) languages.
+  -1990s: Introduction of Agile methodologies.
+
+
+3.List and briefly explain the phases of the Software Development Life Cycle.
+
+   i. Planning: Define project goals, scope, resources, and timeline to set a clear path.
+
+   ii. Requirements Analysis: Gather and analyze user needs to document specific software requirements.
+
+   iii. Design: Create the software’s architecture, components, and data flow based on requirements.
+
+   iv. Development (Coding): Write the actual code according to the design documents and project plan.
+
+    v.Testing: Identify and fix bugs to ensure the software meets requirements and functions correctly.
+
+    vi.Deployment: Release the software to the production environment for users to start using it.
+
+    vii.Maintenance: Monitor and update the software, fix issues, and make improvements based on feedback.
+
+
+4.Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
+ --->The Waterfall methodology is a linear and sequential approach where each phase must be completed before moving to the next, with extensive documentation at every stage. It is less flexible, making changes difficult and costly once a phase is completed, which can result in higher risk if requirements change later. This approach is suitable for projects with clear, fixed requirements, like building infrastructure. In the other hand, the Agile methodology is an iterative and incremental approach with work divided into short cycles, typically lasting 2-4 weeks. Agile focuses more on collaboration and working software, making it highly adaptable to changes throughout development. This flexibility results in lower risk due to constant feedback and iterations. Agile is ideal for projects with rapidly changing requirements, such as software development for startups. While Waterfall is more structured and documentation-heavy, Agile offers greater flexibility and adaptability, making it suitable for dynamic and evolving projects.
+
+
+5.Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
+- Software Developer is  responsible for writing the code and developing the entire software product.He/She is also responsible for sending updates to the project manager.
+-Quality Assuarance Engineer is responsible in creating tests that identifying issues with software before it is deployed.
+-Project Manager is responsible for helping the team to design,execute,monitor and finish their work so that the clients will receive higher-quality softwarre products.
+
+
+
+6.Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
+  -->Integrated Development Environments (IDEs) offer an all-in-one solution, combining coding, debugging, and testing tools within a single interface. They enhance productivity by providing features like syntax highlighting, code completion, and error detection, making it easier for developers to write, compile, and debug their code. Examples include Visual Studio, which supports multiple programming languages and development tools, and IntelliJ IDEA, known for its intelligent code assistance, particularly for Java development.
+  -->Version Control Systems (VCS) are essential for managing code changes and fostering collaboration among developers. They track revisions, maintain a history of changes, and facilitate the restoration of previous versions. VCS also supports branching and merging, allowing parallel development of features and bug fixes without disrupting the main codebase. Git, with its distributed nature and robust branching capabilities, is a popular choice, while Subversion (SVN) offers a centralized approach, suitable for projects preferring a single repository.
+
+
+7.What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
+a.Rapid Technological Advancement: The tech landscape is constantly evolving, and staying updated can be overwhelming.Strategy: Dedicate time regularly for learning and experimenting with new technologies. Participate in online courses, attend webinars, and follow industry blogs and forums.
+
+b.Managing Workload: Balancing multiple projects and tight deadlines can lead to stress and burnout.Strategy: Prioritize tasks, set realistic goals, and use project management tools to organize your work. Practice time management techniques like the Pomodoro Technique to stay productive.
+
+c.Debugging and Problem Solving: Identifying and fixing bugs can be time-consuming and frustrating.Strategy: Develop a systematic approach to debugging. Use debugging tools, write unit tests, and collaborate with peers to troubleshoot issues effectively.
+
+8.Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
+a.Unit Testing- Testing individual units of code (functions, modules) to verify they perform as expected with defined inputs and outputs. 
+
+b.Intergration Testing-Testing how different units of code interact and communicate with each other when combined to form larger modules or subsystems. 
+
+c.System Testing-Evaluating the complete integrated software system against functional and non-functional requirements, including performance, security, usability, and compatibility across different environments. 
+
+d.Acceptance Testing- Testing the software from the perspective of the end-user to confirm that it meets their requirements and is ready for deployment. 
+
+
+#Part 2: Introduction to AI and Prompt Engineering
+
+1.Define prompt engineering and discuss its importance in interacting with AI models.
+ -Prompt engineering is the process where you guide generative artificial intelligence solutions to generate desired outputs.It allows for customization, making interactions with AI more useful and contextually appropriate
+
+2.Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ 
+ vague prompt-'Write A Story'
+ Improved Prompt-"Write a short story about a young girl who discovers a magical forest in her backyard and befriends a talking animal."
+
+ The improved prompt is more effective because it provides clear context and specific details. By specifying the character (young girl), the setting (a magical forest in her backyard), and an event (befriending a talking animal), the prompt guides the AI to generate a more focused and engaging story. This reduces ambiguity and ensures that the output aligns more closely with the user's expectations. Additionally, it helps the AI model understand the desired genre and themes, leading to a richer and more coherent narrative.
